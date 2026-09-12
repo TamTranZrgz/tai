@@ -1,0 +1,7 @@
+---
+icon: simple/markdown
+---
+
+# I.3. El Gobierno
+
+El Gobierno: composición, nombramiento y cese. Las funciones del Gobierno. Relaciones entre el Gobierno y las Cortes Generales.

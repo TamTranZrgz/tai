@@ -1,0 +1,7 @@
+---
+icon: simple/markdown
+---
+
+# II.2. Periféricos
+
+Periféricos: conectividad y administración. Elementos de impresión. Elementos de almacenamiento. Elementos de visualización y digitalización.
