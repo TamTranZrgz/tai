@@ -1,7 +1,0 @@
----
-icon: simple/markdown
----
-
-# III.2. Lenguajes de programación
-
-Lenguajes de programación. Representación de tipos de datos. Operadores. Instrucciones condicionales. Bucles y recursividad. Procedimientos, funciones y parámetros. Vectores y registros. Estructura de un programa.

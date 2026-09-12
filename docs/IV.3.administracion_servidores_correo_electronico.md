@@ -1,7 +1,0 @@
----
-icon: simple/gmail
----
-
-# IV.3. Administración de servidores de correo electrónico
-
-Administración de servidores de correo electrónico sus protocolos. Administración de contenedores y microservicios.

@@ -1,7 +1,0 @@
----
-icon: simple/uml
----
-
-# III.1. Modelado de datos, metodologías y reglas
-
-Modelado de datos, metodologías y reglas. Entidades, atributos y relaciones. Diseño de bases de datos. Diseño lógico y físico. El modelo lógico relacional. Normalización.

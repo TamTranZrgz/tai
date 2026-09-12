@@ -1,7 +1,0 @@
----
-icon: simple/securityscorecard
----
-
-# IV.9. Seguridad y protección en redes de comunicaciones
-
-Seguridad y protección en redes de comunicaciones. Seguridad perimetral. Acceso remoto seguro a redes. Redes privadas virtuales (VPN). Seguridad en el puesto del usuario.

@@ -1,7 +1,0 @@
----
-icon: simple/paloaltonetworks
----
-
-# IV.10. Redes locales & Técnicas de transmisión
-
-Redes locales. Tipología. Técnicas de transmisión. Métodos de acceso. Dispositivos de interconexión.

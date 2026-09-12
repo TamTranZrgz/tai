@@ -1,7 +1,0 @@
----
-icon: simple/github
----
-
-# III.9. Repositorios & Metodologías de desarrollo
-
-Repositorios: estructura y actualización. Generación de código y documentación. Metodologías de desarrollo. Pruebas. Programas para control de versiones. Plataformas de desarrollo colaborativo de software.

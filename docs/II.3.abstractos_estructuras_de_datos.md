@@ -1,7 +1,0 @@
----
-icon: simple/markdown
----
-
-# II.3. Tipos abstractos y Estructuras de datos
-
-Tipos abstractos y Estructuras de datos. Organizaciones de ficheros. Algoritmos. Formatos de información y ficheros.

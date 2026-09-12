@@ -1,7 +1,0 @@
----
-icon: simple/markdown
----
-
-# I.2. Las Cortes Generales
-
-Las Cortes Generales: atribuciones del Congreso de los Diputados y del Senado. El Tribunal Constitucional: composición y atribuciones. El Defensor del Pueblo.
