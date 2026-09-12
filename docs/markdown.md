@@ -2,7 +2,7 @@
 icon: simple/markdown
 ---
 
-# Markdown in 5min
+# Markdown Instruction
 
 ## Headers
 
@@ -104,7 +104,7 @@ Use backslash to escape: \* \_ \# \`
 ## Line breaks
 
 ```
-End a line with two spaces  
+End a line with two spaces
 to create a line break.
 
 Or use a blank line for a new paragraph.
